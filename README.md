@@ -53,4 +53,5 @@ The recommendation system suggests movies based on the genre, utilizing the cosi
 
 ## Summary
 From the above given dataset we built a content based Recommendation system or Personalized recommendation system.First we had to clean the datset as there were some missing values then we had to drop the columns which didn't seem necessary for out Analysis. After that we did some Exploratory Data Analysis on the movie dataset and found some trends and observations from the plots.
+
 Then we used the concept of TF-IDF vector to convert our texts into a matrix form and find the cosine similarity so that we can predict the similar movies present in the dataset. At last we were sucessfull in building a very small version of a personalized recommendation system.
