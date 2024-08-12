@@ -44,8 +44,8 @@ Visualized the most common words in movie titles.
 #### Genre WordCloud:
 Visualized the most common genres in the dataset.
 
-### Content-Based Recommendation System
-#### TF-IDF Vectorization:
+## Content-Based Recommendation System
+### TF-IDF Vectorization:
 Implemented TF-IDF (Term Frequency-Inverse Document Frequency) vectorization on the 'Genre' column to convert textual data into numerical format.
 
 ### Recommendation Engine:
