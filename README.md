@@ -14,7 +14,7 @@ The primary goal of this project is to gain insights into a movie dataset and de
 The dataset, in CSV format, is loaded into a Pandas DataFrame. The dataset contains 1000 movies with 12 attributes, including title, genre, director, actors, year, runtime, rating, votes, revenue, and metascore. Data is collected on 12 different attributes of a movie, with rating being in the order of 1 (worst) and 10 (best) and the metascore being in the order from 1 (worst) and 100 (best).
 
 ## Workflow
-## Data Preparation:
+## Data Preparation
 ### Loading the Dataset:
 The dataset, in CSV format, is loaded into a Pandas DataFrame. The dataset contains 1000 movies with 12 attributes, including title, genre, director, actors, year, runtime, rating, votes, revenue, and metascore.
 
